@@ -3,4 +3,4 @@ services:
   frontend:
       image: mrsmirror/234-deploylab-backend:latest
       ports:
-        - "8086:80"
+        - "8085:80"
